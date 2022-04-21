@@ -1,0 +1,9 @@
+{
+    "id": "moonriver",
+    "symbol": "movr",
+    "name": "Moonriver",
+    "asset_platform_id": "moonriver",
+    "platforms": {
+    "moonriver": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
+    "meter": "0xb158870beb809ad955bf56065c5c10d7fd957cc0"
+    }
